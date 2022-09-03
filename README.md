@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Landing page](https://devitgo.com/images/landing_page.png)
+
 <!--
 **Daavidaviid/Daavidaviid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
