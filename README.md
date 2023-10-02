@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Landing page](https://devitgo.com/images/landing_page.png)
+![Landing page](https://devitgo.com/images/image.png)
 
 [https://devitgo.com](https://devitgo.com)
 
